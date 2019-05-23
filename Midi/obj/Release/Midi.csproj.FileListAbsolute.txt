@@ -1,0 +1,13 @@
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Release\Midi.xml
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Release\Midi.dll
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Release\Midi.pdb
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Release\Midi.csprojResolveAssemblyReference.cache
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Release\Midi.dll
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Release\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Release\Midi.xml
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Release\Midi.dll
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Release\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Release\Midi.csproj.CoreCompileInputs.cache
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Release\Midi.dll
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Release\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Release\Midi.csprojAssemblyReference.cache

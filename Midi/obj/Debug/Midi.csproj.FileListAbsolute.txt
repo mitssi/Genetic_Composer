@@ -1,0 +1,43 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\bin\Debug\Midi.XML
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\bin\Debug\Midi.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\bin\Debug\Midi.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\obj\Debug\Midi.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\midi-dot-net_src_1.1.0\midi-dot-net_src_1.1.0\midi-dot-net\Midi\obj\Debug\Midi.pdb
+C:\Users\Nam\Desktop\midi-dot-net\Midi\bin\Debug\Midi.XML
+C:\Users\Nam\Desktop\midi-dot-net\Midi\bin\Debug\Midi.dll
+C:\Users\Nam\Desktop\midi-dot-net\Midi\bin\Debug\Midi.pdb
+C:\Users\Nam\Desktop\midi-dot-net\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\midi-dot-net\Midi\obj\Debug\Midi.dll
+C:\Users\Nam\Desktop\midi-dot-net\Midi\obj\Debug\Midi.pdb
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\bin\Debug\Midi.XML
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\bin\Debug\Midi.dll
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\bin\Debug\Midi.pdb
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\obj\Debug\Midi.dll
+C:\Users\Nam\Documents\Visual Studio 2013\Projects\midi-dot-net\Midi\obj\Debug\Midi.pdb
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\bin\Debug\Midi.XML
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\bin\Debug\Midi.dll
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\bin\Debug\Midi.pdb
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\obj\Debug\Midi.dll
+E:\기타폴더\정리2\Projects\midi-dot-net\Midi\obj\Debug\Midi.pdb
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.XML
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.dll
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.pdb
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.dll
+C:\Users\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.pdb
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.XML
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.dll
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\bin\Debug\Midi.pdb
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.dll
+F:\내자료\남용욱\Documents\Visual Studio 2015\Projects\OPTLAB\GeneticComposer\Midi\obj\Debug\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Debug\Midi.XML
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Debug\Midi.dll
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\bin\Debug\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Debug\Midi.csproj.CoreCompileInputs.cache
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Debug\Midi.dll
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Debug\Midi.pdb
+C:\Users\yongu\Documents\Visual Studio 2017\Projects\Winform\GA_Composer\Midi\obj\Debug\Midi.csprojAssemblyReference.cache
